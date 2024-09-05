@@ -3,7 +3,7 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background: #b5f3fc;
+    background: #c7f7fe;
     color: #090909;
 }
 
@@ -34,7 +34,7 @@ main {
 
 .song-list a {
     text-decoration: none;
-    color: #15aeb0;
+    color: #ffffff;
 }
 
 .song-list a:hover {
